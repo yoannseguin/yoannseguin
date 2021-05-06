@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yoann SEGUIN
+- 👀 I’m interested by music, i'm playing piano
+- i like to travel around the world
+- 🌱 I’m currently learning language of HTML, CSS, JS
+- 💞️ I’m looking to collaborate with you
