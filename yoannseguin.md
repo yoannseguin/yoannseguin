@@ -1,6 +1,0 @@
-- 👋 Hi, I’m Yoann SEGUIN
-- 👀 I’m interested by music, i'm playing piano
-- i like to travel around the world ( South Africa, New Caledonia, Brasil, Sri Lanka, Europe, USA ..)
-- 🌱 I’m currently learning language of HTML, CSS, JS
-- Frame work : Word press, prestashop
-- 💞️ I’m looking to collaborate with you
